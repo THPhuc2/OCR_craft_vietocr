@@ -14,8 +14,8 @@ This project provides a solution for text recognition from tables in images by c
 ## Installation
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your_username/ocr_project.git
-   cd ocr_project
+   git clone [https://github.com/THPhuc2/OCR_dbnet_craft_vietocr.git]
+   cd OCR_dbnet_craft_vietocr
    ```
 
 2. **Install the necessary libraries:**
